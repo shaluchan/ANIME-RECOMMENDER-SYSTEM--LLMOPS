@@ -105,6 +105,9 @@ helm repo add grafana https://grafana.github.io/helm-charts &&
 ### 8. Clean up
 Terminate your instance.
 
+## ARCHITECTURAL DIAGRAM
+![hld](/images/architecture.png)
+
 
 
 
