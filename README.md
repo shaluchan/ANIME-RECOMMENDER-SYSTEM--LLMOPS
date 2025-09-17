@@ -73,7 +73,7 @@ Run the following command in two seperate terminals
 ```
 minikube tunnel
 ```
-2. Port-forward the service
+2.Port-forward the service
 ```
 kubectl port-forward svc/llmops-service 8501:80 --address 0.0.0.0
 ```
